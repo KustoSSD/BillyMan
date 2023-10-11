@@ -136,9 +136,9 @@ span.combo, span.fruits {
 	margin: auto;
 	left: 0px;
 	right: 0px;
-	bottom: -345px;
-	width: 550px;
-	height: 140px;
+	bottom: -145px;
+	width: 150px;
+	height: 0px;
 	background-color: #666;
 	opacity: 0.7;
 	display: none;
